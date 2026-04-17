@@ -297,8 +297,15 @@ Pertanyaannya bukan lagi *bisakah mesin memahami bahasa Jawa* — melainkan *seb
 
 ---
 
-*Notebook lengkap tersedia di repositori GitHub. Seluruh eksperimen dijalankan menggunakan kaggle dengan GPU T4.*
+---
+
+*Notebook lengkap tersedia di repositori GitHub. Seluruh eksperimen dijalankan menggunakan Kaggle dengan GPU T4.*
+
+👉 **[Kunjungi Repositori GitHub di sini](https://github.com/toukachan993/Perbandingan-Metode-Machine-Learning-dan-Deep-Learning-untuk-Klasifikasi-Tingkat-Tutur-Bahasa-Jawa)**
 
 ---
 
-*Apakah artikel ini bermanfaat? Tinggalkan komentar atau clap jika kamu tertarik melihat eksperimen serupa untuk bahasa daerah lainnya!* 
+*Apakah artikel ini bermanfaat? Tinggalkan komentar atau clap jika kamu tertarik melihat eksperimen serupa untuk bahasa daerah lainnya!* ```
+
+Dengan format `[Teks](URL)` seperti di atas, kalimat "Kunjungi Repositori GitHub di sini" akan otomatis menjadi tombol/tautan yang bisa diklik oleh pembaca di Medium, sehingga terlihat jauh lebih profesional daripada sekadar menempelkan *link* mentah yang panjang.
+
