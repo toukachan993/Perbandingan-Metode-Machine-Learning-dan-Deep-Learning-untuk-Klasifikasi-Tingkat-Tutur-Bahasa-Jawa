@@ -119,7 +119,7 @@ svm_model.fit(X_train_tfidf, y_train)
 
 ![Confusion Matrix TF-IDF + SVM](image/coffusion%20matrix%20tf%20idf.png)
 
-![Bar Chart TF-IDF](image/bar%chart%20tf%20idf.png)
+![Bar Chart TF-IDF](image/bar%20chart%20tf%20idf.png)
 
 TF-IDF + SVM mencatatkan akurasi sekitar **89%** — angka yang sangat respektabel untuk metode klasik. Analisis per kelas menunjukkan pola yang menarik:
 
