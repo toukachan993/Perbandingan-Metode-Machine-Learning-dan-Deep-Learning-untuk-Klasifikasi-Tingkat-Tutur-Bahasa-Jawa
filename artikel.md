@@ -2,9 +2,7 @@
 
 > *Sebuah perjalanan dari pendekatan klasik hingga transformer untuk memahami tingkatan bahasa paling kompleks di Nusantara*
 
----
 
-![Perbandingan Akurasi 3 Model](image/perbandingan%20%20akurasi%203%20model.png)
 
 ---
 
@@ -121,7 +119,7 @@ svm_model.fit(X_train_tfidf, y_train)
 
 ![Confusion Matrix TF-IDF + SVM](image/coffusion%20matrix%20tf%20idf.png)
 
-![Bar Chart TF-IDF](image/barchart%20tf%20idf.png)
+![Bar Chart TF-IDF](image/bar%chart%20tf%20idf.png)
 
 TF-IDF + SVM mencatatkan akurasi sekitar **89%** — angka yang sangat respektabel untuk metode klasik. Analisis per kelas menunjukkan pola yang menarik:
 
